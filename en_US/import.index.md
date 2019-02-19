@@ -2,13 +2,10 @@ Depending on your server configuration and general availability, just one or sev
 
 **File import**
 
-The file import allows you to import CSV files into PaisaWorks. If you want to read more about importing CSV files, check out the [official documentation on importing CSV files](https://firefly-iii.readthedocs.io/en/latest/import/csv.html).
 
 **Spectre import**
 
-PaisaWorks supports the Spectre API and can import transactions from Spectre. If you want to read more about importing from Spectre, check out the [official documentation on importing from Spectre](https://firefly-iii.readthedocs.io/en/latest/import/spectre.html).
 
 **bunq import**
 
-PaisaWorks supports the bunq API and can import transactions from bunq. If you want to read more about importing from bunq, check out the [official documentation on importing from bunq](https://firefly-iii.readthedocs.io/en/latest/import/bunq.html).
 

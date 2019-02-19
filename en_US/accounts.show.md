@@ -16,4 +16,3 @@ Just like how expense accounts mention earned accounts, revenue accounts mention
 
 This overview shows the state of your liabilities.
 
-If you want to read more about accounts, check out the [official documentation on accounts](https://firefly-iii.readthedocs.io/en/latest/concepts/accounts.html).

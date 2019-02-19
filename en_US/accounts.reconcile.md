@@ -11,4 +11,3 @@ When you are done selecting transactions, the amount under "Reconciliation optio
 
 Either way, press "Store reconciliation" to store the result. The transactions will be marked as "cleared" and you can optionally create a transaction that will correct the balance of your PaisaWorks asset account (a reconciliation).
 
-If you want to read more about reconciliations, check out the [official documentation on reconciliations](https://firefly-iii.readthedocs.io/en/latest/advanced/reconcile.html).

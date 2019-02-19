@@ -27,4 +27,3 @@ Let's say you want to have a minimum balance of $100,- at all times. Enter "-100
 
 
 
-If you want to read more about accounts, check out the [official documentation on accounts](https://firefly-iii.readthedocs.io/en/latest/concepts/accounts.html).

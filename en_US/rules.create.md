@@ -8,4 +8,3 @@ In either case PaisaWorks responds by executing the actions. You can add as many
 
 Rules are also applied to imported transactions, if you want to.
 
-Read more about rules in [the official documentation](https://firefly-iii.readthedocs.io/en/latest/advanced/rules.html).

@@ -19,4 +19,3 @@ PaisaWorks supports liabilities. You can add debts, loans and other liabilities 
 
 Let's say you want to have a minimum balance of $100,- at all times. Enter "-100" and PaisaWorks will treat a balance of $100,- as zero. If you are creating a credit card account, enter the limit of your credit card (for example $1000,-). PaisaWorks will correctly display how far your limit is stretched.
 
-If you want to read more about accounts, check out the [official documentation on accounts](https://firefly-iii.readthedocs.io/en/latest/concepts/accounts.html).

@@ -4,4 +4,3 @@ The home page of PaisaWorks gives you a quick overview of your current financial
 * Below that are several charts that show the status of your asset accounts, budgets, categories and expense accounts respectively. Optionally, a chart showing your revenue accounts can be enabled as well.
 * Finally on the right, you will find the last 10 transactions of each asset account.
 
-Read more about PaisaWorks in [the official documentation](https://firefly-iii.readthedocs.io/en/latest/).

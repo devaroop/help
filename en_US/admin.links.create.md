@@ -6,4 +6,3 @@ PaisaWorks has some default links, but you can always add more. Links are descri
 
 You can create as many translation links as you want, but they must be unique.
 
-If you want to read more about transaction links, check out the [official documentation on transaction links](https://firefly-iii.readthedocs.io/en/latest/advanced/links.html).

@@ -4,4 +4,3 @@ When you create bills, PaisaWorks will report on the expected amount of bills fo
  
 In short, you can create a bill for "rent" or for "insurance" and every month, PaisaWorks will show you if you paid for it.
 
-If you want to read more about bills, check out the [official documentation on bills](https://firefly-iii.readthedocs.io/en/latest/advanced/bills.html).
