@@ -4,7 +4,7 @@ Then you may add as many triggers as you want. These triggers can be anything fr
 
 If a rule is strict, then every trigger must be hit for a rule to be activated. If you make it non-strict (by deselecting the checkbox) it is enough for one trigger to be hit.
 
-In either case Firefly III responds by executing the actions. You can add as many actions as you like, in any order. They will ALL be executed.
+In either case PaisaWorks responds by executing the actions. You can add as many actions as you like, in any order. They will ALL be executed.
 
 Rules are also applied to imported transactions, if you want to.
 
