@@ -6,17 +6,17 @@ There are three types of accounts.
 
 **Asset accounts**
 
-Accounts that hold your money: your bank accounts.
+Asset accounts are your personal bank accounts, fixed deposits, Securities and shares, Cash, etc
+
 
 **Expense accounts**
 
-These represent the people you pay. Shops are likely.
+Expense accounts are the accounts you spend money at, such as stores and friends. eg. Netflix, PVR, Electricity Bill, Grocery Store, Land lord, etc
 
 **Revenue accounts**
 
-These represent the people that pay you. Your job for example.
+Revenue accounts are accounts you receive money from, such as your job, the government or other sources of income. eg. Rental Income, Online Advertising, Job, etc
 
 **Liabilities**
 
-These are your debts, loan, mortgage(s).
-
+Liabilities are your debts and loans such as old credit card debts, eduction loans, home loans, car loans etc.
