@@ -1,4 +1,4 @@
-Firefly III has some default links, but you can always add more. Links are described with three properties:
+PaisaWorks has some default links, but you can always add more. Links are described with three properties:
 
 * The description. This is obvious.
 * Inward description. This describes how transaction A is influenced by B. Imagine transaction B "flying in" and changing transaction A somehow.

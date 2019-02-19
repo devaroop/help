@@ -1,4 +1,4 @@
-Welcome to Firefly III!
+Welcome to PaisaWorks!
 
 To get started please fill in the required details.
 
@@ -6,4 +6,4 @@ To get started please fill in the required details.
 * The balance should be the balance the account has right now. You may also leave this at zero, and correct it later.
 * For your savings account, the same thing applies. The name will be derived from your bank name, but you can change it later.
 
-Read more about Firefly III in [the official documentation](https://firefly-iii.readthedocs.io/en/latest/).
+Read more about PaisaWorks in [the official documentation](https://firefly-iii.readthedocs.io/en/latest/).

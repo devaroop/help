@@ -1,4 +1,4 @@
-Firefly III offers a number types of reports. Each report can be bookmarked for easy access. Each report has various options you must set.
+PaisaWorks offers a number types of reports. Each report can be bookmarked for easy access. Each report has various options you must set.
 
 For ALL reports, you must indicate which asset accounts will be included in the report. If you do not include certain asset accounts, transfers from and to those ignored accounts will count as expenses and income.
 
